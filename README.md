@@ -27,7 +27,8 @@ CSS
 ## ⚙️ Some Frameworks and Technologies
 > ⚙️ Algumas Frameworks e Tecnologias
 
-- Flutter,
+- AWS,
+Flutter,
 React,
 React Native,
 Express.js,
