@@ -50,4 +50,4 @@ Jupyter
 Unity
 
 ## Links
-LinkedIn: [Daniel Ribeiro Torquato Filho](https://www.linkedin.com/in/df-danielfilho/)
+LinkedIn: [Daniel Torquato](https://www.linkedin.com/in/danieltorquatof/)
